@@ -1,0 +1,4 @@
+Spring boot backend: https://github.com/ESTER0703/bk_libreria_web
+
+React Vite Frontend: https://github.com/ESTER0703/LibreriaWeb
+
